@@ -17,6 +17,9 @@
 <a href="https://vk.com/ld10001101100011101110" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="Alexey.G" height="40" width="40" /></a>
 <a href="https://habr.com/ru/users/F1n4ikull" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/d71898e2a08f31fd3f9512a9d30d3cb1d025a649/icons/habr.svg" alt="Alexey.G" height="60" width="60" /></a>
 </p>
+<p align="right">
+  <a href="https://drive.google.com/file/d/1Ku9PdEwX5XF2ROVFWNhOeLuENuYkmpVq/view?usp=sharing" target="blank"><img align="center" src="MyCV.svg" alt="CV" height="40" width="40" /></a>
+</p>
 
 ### Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)<br>
