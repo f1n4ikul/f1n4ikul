@@ -17,8 +17,8 @@
 <a href="https://vk.com/ld10001101100011101110" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="Alexey.G" height="40" width="40" /></a>
 <a href="https://habr.com/ru/users/F1n4ikull" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/d71898e2a08f31fd3f9512a9d30d3cb1d025a649/icons/habr.svg" alt="Alexey.G" height="60" width="60" /></a>
 </p>
-<p align="right">
-  <a href="https://drive.google.com/file/d/1Ku9PdEwX5XF2ROVFWNhOeLuENuYkmpVq/view?usp=sharing" target="blank"><img align="center" src="MyCV.svg" alt="CV" height="40" width="40" /></a>
+<p align="left">
+  <a href="https://drive.google.com/file/d/1Ku9PdEwX5XF2ROVFWNhOeLuENuYkmpVq/view?usp=sharing" target="blank"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=F74EBE&repeat=false&width=435&lines=CV+%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5" alt="Typing SVG" /></a></a>
 </p>
 
 ### Tech Stack:
