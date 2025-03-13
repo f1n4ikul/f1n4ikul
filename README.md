@@ -18,7 +18,7 @@
 <a href="https://habr.com/ru/users/F1n4ikull" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/d71898e2a08f31fd3f9512a9d30d3cb1d025a649/icons/habr.svg" alt="Alexey.G" height="60" width="60" /></a>
 </p>
 <p align="left">
-  <a href="https://drive.google.com/file/d/1Ku9PdEwX5XF2ROVFWNhOeLuENuYkmpVq/view?usp=sharing" target="blank"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=F74EBE&repeat=false&width=435&lines=CV+%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5" alt="Typing SVG" /></a></a>
+  <a href="https://drive.google.com/file/d/1Ku9PdEwX5XF2ROVFWNhOeLuENuYkmpVq/view?usp=sharing" target="blank"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=F74EBE&repeat=false&width=435&lines=CV+%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5" alt="Typing SVG" /></a>
 </p>
 
 ### Tech Stack:
